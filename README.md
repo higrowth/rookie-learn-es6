@@ -10,7 +10,11 @@
 目录
 ----
 
--	互不侵犯的let和const命令
+-	[互不侵犯的let和const命令](https://github.com/higrowth/rookie-learn-es6/blob/master/%E4%BA%92%E4%B8%8D%E4%BE%B5%E7%8A%AF%E7%9A%84let%E5%92%8Cconst%E5%91%BD%E4%BB%A4.md)
+
+-	[少说话多干事的解构赋值](https://github.com/higrowth/rookie-learn-es6/blob/master/%E5%B0%91%E8%AF%B4%E8%AF%9D%E5%A4%9A%E5%B9%B2%E4%BA%8B%E7%9A%84%E8%A7%A3%E6%9E%84%E8%B5%8B%E5%80%BC.md)
+
+-	[异步走天下的Promise](https://github.com/higrowth/rookie-learn-es6/blob/master/%E5%BC%82%E6%AD%A5%E8%B5%B0%E5%A4%A9%E4%B8%8B%E7%9A%84Promise.md)
 
 免责声明
 --------
